@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:EC4899&height=190&section=header&text=Mavi%20Sandoval&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Estudiante%20de%20Sistemas%20%C2%B7%20Agentes%20de%20IA&descSize=18&descAlignY=58" width="100%" alt="Mavi Sandoval" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:EC4899&height=190&section=header&text=Mavi%20Sandoval&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Estudiante%20de%20Sistemas%20%C2%B7%20Desarrolladora%20de%20software&descSize=18&descAlignY=58" width="100%" alt="Mavi Sandoval" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=620&lines=Construyo+agentes+de+IA+con+tool+calling;Python+%C2%B7+C%23+%C2%B7+JavaScript+%C2%B7+SQL;Corrientes%2C+Argentina" alt="Presentación" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=620&lines=Desarrollo+web%2C+de+escritorio+y+con+IA;Python+%C2%B7+C%23+%C2%B7+JavaScript+%C2%B7+SQL;Corrientes%2C+Argentina" alt="Presentación" />
 
 </div>
 
@@ -10,7 +10,7 @@
 
 Soy **María Victoria Sandoval**, estudiante de **Licenciatura en Sistemas de Información** en FaCENA-UNNE.
 
-Me interesa conectar modelos de lenguaje con datos reales para que resuelvan tareas concretas, y aprendo construyendo proyectos completos: con tests, desplegados y funcionando.
+Me gusta el desarrollo de software en todas sus partes: aplicaciones web, de escritorio, bases de datos e inteligencia artificial. Aprendo construyendo proyectos completos, con tests, desplegados y funcionando.
 
 ## 🚀 Proyectos
 
@@ -20,7 +20,7 @@ Me interesa conectar modelos de lenguaje con datos reales para que resuelvan tar
 
 ### 💊 Farmacia Chatbot
 
-Asistente virtual de farmacia: un agente con *tool calling* que consulta productos, precios y coberturas de obras sociales. Atiende por web, Telegram y WhatsApp.
+Asistente virtual de farmacia: un agente de IA con *tool calling* que consulta productos, precios y coberturas de obras sociales. Atiende por web, Telegram y WhatsApp.
 
 `Python` `Groq` `FastAPI` `Streamlit` `SQLite` `pytest`
 
@@ -50,7 +50,7 @@ Sistema de escritorio de gestión y punto de venta para farmacias, con ventas po
 
 Marketplace que conecta emprendedores locales de Corrientes con sus clientes: catálogo, compras, reclamos con chat e imágenes y valoraciones. Proyecto académico en equipo.
 
-`React` `Node.js` `Express` `SQL Server` `Vitest`
+`React` `JavaScript` `HTML` `CSS` `Node.js` `Express` `SQL Server` `Vitest`
 
 🔒 Repositorio privado
 
@@ -71,7 +71,9 @@ Plataforma que conecta estudiantes universitarios y recién graduados verificado
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,cs,js,react,nodejs,dotnet,fastapi,sqlite,html,css,git,github&perline=12" alt="Tecnologías" />
+<img src="https://skillicons.dev/icons?i=py,cs,js,html,css,react,nodejs,express,dotnet,fastapi,sqlite,vitest,git,github,vscode,visualstudio&perline=8" alt="Tecnologías" />
+
+**También:** SQL Server · Entity Framework Core · WPF · Streamlit · pytest
 
 </div>
 
